@@ -12,3 +12,8 @@ allprojects
 			maven { url 'https://jitpack.io' }
 		}
 	}
+	
+# Step 2. Add the dependency
+
+	implementation 'com.github.naumanbutt05:SimpleNotifications:0.1.1'
+
