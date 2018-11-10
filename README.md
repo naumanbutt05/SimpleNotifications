@@ -19,7 +19,7 @@ allprojects
 	
 # Step 3. Code
 
-	SimpleNotifications.generateNotification(Context,int channel id,String channel id,String channel name,String title,String message,
+	SimpleNotifications.generateNotification(Context context,int channel id,String channel id,String channel name,String title,String message,
                 int large icon,int small icon,ClassName);
 
 # Sample Java Code Example
